@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASN3</string>
+    <string name="recipe_title_ph">Recipe Title</string>
+    <string name="recipe_description_ph">Recipe Description</string>
+    <string name="recipe_ingredients_ph">Ingredients</string>
+    <string name="recipe_directions_ph">Directions</string>
+</resources>
